@@ -1,0 +1,9 @@
+{
+	"name": "example-mkdocs-on-vercel",
+	"version": "0.0.0",
+	"private": true,
+	"scripts": {
+		"build": "./build.sh",
+		"dev": "./dev.sh"
+	}
+}
