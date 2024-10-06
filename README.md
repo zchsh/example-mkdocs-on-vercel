@@ -1,5 +1,7 @@
 # MkDocs on Vercel
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fzchsh%2Fexample-mkdocs-on-vercel&project-name=example-mkdocs-on-vercel&repository-name=example-mkdocs-on-vercel)
+
 This is a demo documentation site, running [mkdocs](https://www.mkdocs.org/). You can preview it at:
 
 - <https://example-mkdocs-on-vercel.vercel.app/>
